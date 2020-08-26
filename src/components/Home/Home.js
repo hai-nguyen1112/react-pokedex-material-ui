@@ -2,6 +2,7 @@ import React from 'react';
 import CardMedia from '@material-ui/core/CardMedia';
 import { Link } from 'react-router-dom';
 import './Home.scss';
+import '../../App.scss';
 
 const Home = () => {
   return (
